@@ -30,8 +30,11 @@ Get in Touch
 I'm always excited to connect with fellow designers, developers, and potential collaborators. If you'd like to discuss a project, have design-related inquiries, or simply want to connect, please feel free to reach out to me:
 
 Email: twinkleuiux@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/twinkle-rajdip-888b98136/
+
 Portfolio Website: https://twinkles-portfolio-site.webflow.io/
+
 Thank you for visiting my GitHub repository. I look forward to connecting with you and exploring opportunities to work together on innovative design projects.
 
 
