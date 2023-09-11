@@ -51,7 +51,9 @@ Performance: The website is optimized for fast loading times, providing a seamle
 ### Technologies Used:
 
 Figma: Used for design, prototyping, and user research.
+
 Wordpress: Used for development.
+
 HTML/CSS: Custom code was added where necessary to achieve specific design and functionality goals.
 
 
