@@ -12,7 +12,7 @@ Aesthetics and Functionality: Striking the perfect balance between visually stun
 Continuous Learning: Staying updated with the latest design trends and technologies to deliver cutting-edge solutions.
 
 ### Viweable Link to the project
-https://www.figma.com/file/sKDxaOudXQ0svYbAAaXqlc/ODX-Website-FinalOne?type=design&node-id=0%3A1&mode=design&t=A6ScmFLSINNhbctE-1
+[link](https://www.figma.com/file/sKDxaOudXQ0svYbAAaXqlc/ODX-Website-FinalOne?type=design&node-id=0%3A1&mode=design&t=A6ScmFLSINNhbctE-1)
 
 
 ### Tools and Technologies
