@@ -59,6 +59,12 @@ HTML/CSS: Custom code was added where necessary to achieve specific design and f
 
 ### Screenshots:
 
+![Home Page](https://github.com/Twinkle-des/WebDesigns/assets/85760141/057639f4-0bdb-4991-82a0-148f6d1c6cbe)
+
+
+![Product1](https://github.com/Twinkle-des/WebDesigns/assets/85760141/37df9e65-44bd-4d10-b04e-45506d7d99f8)
+
+
 
 ### Get in Touch
 If you're interested in learning more about this project or discussing potential collaborations, please feel free to contact me at twinkleuiux@gmail.com.
